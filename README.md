@@ -1,12 +1,14 @@
 # certificates
-ПРойденные курсы
+Пройденные курсы
 
  
-2323:
+2023:
 Нетология "Data Science:  рекомендательные системы"
 
-coursera:
-2020:
+2022:
+ - Школа программирования 21 (C, Python)
+
+2020 -coursera:
   - "Python Data Structures"
   - "Programming for Everybody"
   - coursera - "Основы программирования на Python"
