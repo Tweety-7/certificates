@@ -13,5 +13,5 @@
   - "ООП и паттерны проектирования в Python"
   - "Создание Web-сервисов на Python"
   - "Python для анализа данных"
- 12. 2018 - coursera: "Математика и Python для анализа данных"
+ 12.2018 - coursera: "Математика и Python для анализа данных"
 11.2018 - coursera "Using Ptthon to Access Web Data"
