@@ -7,6 +7,7 @@
 
 2022:
  - Школа программирования 21 (C, Python)
+   https://21-school.ru/
 
 2020 -coursera:
   - "Python Data Structures"
@@ -18,6 +19,6 @@
   - "Создание Web-сервисов на Python"
   - "Python для анализа данных"
   
-2018:
+2018 - coursera:
   - "Математика и Python для анализа данных"
   - "Using Ptthon to Access Web Data"
