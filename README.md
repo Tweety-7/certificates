@@ -13,7 +13,7 @@
   - "Python Data Structures"
   - "Programming for Everybody"
   - coursera - "Основы программирования на Python"
-  - coursera - специализация: "Проогрсммирование на питон":
+  - coursera - специализация: "Проограммирование на питон":
   - "Погружение в Python"
   - "ООП и паттерны проектирования в Python"
   - "Создание Web-сервисов на Python"
